@@ -1,0 +1,1 @@
+This pre-thesis project focused on building the dataset used in my master’s thesis.
